@@ -21,7 +21,9 @@ im just another front-end dev that cant say no to boba.
 this is where i'll keep my personal projects so i can separate them from my professional work.
 
 currently working on a glucose journal dedicated to my partner with diabetes.
-i also have a daily lip tint picker quiz-type app currently planned!
+i also have a daily lip tint picker quiz-type app currently planned! 
+
+i have a lot of weird ideas for apps and i just like to make things, so anything i come up with will most likely have a repo here!
 
 
 
