@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 ₊‧°𐐪 beary nice to meet you 🧸 𐑂°‧₊
 
-im just another front-end dev that cant say no to boba.
+im just another front-end dev that cant say no to coffee (and boba).
 
 this is where i'll keep my personal projects so i can separate them from my professional work.
 
