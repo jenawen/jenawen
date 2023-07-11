@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-₊‧°𐐪 beary nice to meet you 🧸🍓 𐑂°‧₊
+₊‧°𐐪 beary nice to meet you 🧸 𐑂°‧₊
 
 im just another front-end dev that cant say no to coffee (and boba).
 
