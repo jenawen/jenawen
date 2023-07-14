@@ -12,7 +12,7 @@ other projects i have planned/am working on:
   - daily lip tint recommender (for my fellow k-beauty lovers)
   - aircraft name generator (because i like listening to my dad talk about airplanes)
 
-i have a lot of weird ideas for apps and i just like to make things, so anything i come up with will most likely have a repo here!
+i have a lot of weird ideas for apps and i just like to make things, so anything i come up with will most likely have a repo here! <img src="http://2.bp.blogspot.com/-IOLzF0Mak2I/TkndZ75Xt2I/AAAAAAAAAYQ/FQXsCXSWbuQ/s1600/20100413204011c69.gif" width="18px" height="18px" />
 
 
 
