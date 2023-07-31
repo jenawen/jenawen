@@ -4,12 +4,11 @@
 
 im just another front-end dev that cant say no to coffee (and boba). i currently work in the financial industry.
 
-this is where i'll keep my personal projects so i can separate them from my professional work.
-
-currently working on food diary & glucose level tracker (react/ts).
+currently working on 
+- food diary & glucose level tracker (react/ts)
+- daily lip tint recommender (react/ts, mini backend w/ node.js).
 
 other projects i have planned/am working on:
-  - daily lip tint recommender (react/ts)
   - weekly budget calculator/journal (django/python)
 
 personal projects i've finished & deployed:
