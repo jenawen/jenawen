@@ -5,7 +5,7 @@
 im just another front-end dev that cant say no to coffee (and boba). i currently work in the financial industry.
 
 currently working on 
-- food diary & glucose level tracker (react/ts)
+- food diary & glucose level tracker (react/ts, psql w/ express & node.js)
 - daily lip tint recommender (react/ts, mini backend w/ node.js).
 
 other projects i have planned/am working on:
