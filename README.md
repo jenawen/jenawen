@@ -4,9 +4,12 @@
 front-end dev stuff, data analysis/visualization
 
 currently working on:
-- daily lip tint recommender (react/ts, mini backend w/ node.js).
 - vintage comparison dashboard (streamlit/python)
 - glucose level dashboard (streamlit/python)
+
+planned to work on bc im busy as heck rn lol:
+- daily lip tint recommender (react/ts, mini backend w/ node.js).
+- portfolio for bf (react/ts? python/django? idk yet)
 
 portfolios and things:
   - [my portfolio](https://jenawen.github.io/me/) 
