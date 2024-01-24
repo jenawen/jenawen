@@ -1,13 +1,7 @@
 
 # ₊‧°𐐪 beary nice to meet you 🧸 my name is jena 𐑂°‧₊
 
-front-end dev stuff, data analysis/visualization
-
-currently working on:
-- glucose level dashboard (streamlit/python)
-
-planned to work on bc im busy as heck rn lol:
-- daily lip tint recommender (react/ts, mini backend w/ node.js).
+front-end development, data analysis/visualization
 
 portfolios and things:
   - [my portfolio](https://jenawen.github.io/p/) 
