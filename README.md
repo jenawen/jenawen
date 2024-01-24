@@ -1,5 +1,5 @@
 
-# ₊‧°𐐪 beary nice to meet you 🧸 my name is jena 𐑂°‧₊
+# ₊‧°𐐪 very nice to meet you 🌷 my name is jena 𐑂°‧₊
 
 front-end development, data analysis/visualization
 
